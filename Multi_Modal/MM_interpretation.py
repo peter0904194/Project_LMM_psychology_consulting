@@ -36,7 +36,7 @@ def main():
 
     # API 키 입력
     # api_key = input("OpenAI API 키를 입력하세요: ").strip()
-    api_key = "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"
+    api_key = "api_key"
     client = openai.OpenAI(api_key=api_key)
 
     # 프롬프트에 데이터 삽입
