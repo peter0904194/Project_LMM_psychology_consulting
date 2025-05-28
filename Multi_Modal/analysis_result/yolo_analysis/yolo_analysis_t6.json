@@ -1,0 +1,153 @@
+{
+    "image": "Multi_Modal/ex/test_image6.jpg",
+    "width": 1362,
+    "height": 1308,
+    "summary": {
+        "수관": {
+            "count": 2,
+            "total_area_ratio": 30.36
+        },
+        "뿌리": {
+            "count": 1,
+            "total_area_ratio": 4.59
+        },
+        "나무전체": {
+            "count": 1,
+            "total_area_ratio": 43.83
+        },
+        "그네": {
+            "count": 1,
+            "total_area_ratio": 2.91
+        },
+        "가지": {
+            "count": 2,
+            "total_area_ratio": 15.01
+        },
+        "기둥": {
+            "count": 1,
+            "total_area_ratio": 7.69
+        }
+    },
+    "objects": [
+        {
+            "class": "수관",
+            "class_id": 2,
+            "confidence": 0.98,
+            "bbox": {
+                "x1": 885.92,
+                "y1": 645.44,
+                "x2": 1049.35,
+                "y2": 812.13,
+                "width": 163.43,
+                "height": 166.69,
+                "area": 27242.15,
+                "area_ratio": 1.53
+            }
+        },
+        {
+            "class": "수관",
+            "class_id": 2,
+            "confidence": 0.96,
+            "bbox": {
+                "x1": 270.25,
+                "y1": 53.76,
+                "x2": 1050.71,
+                "y2": 711.73,
+                "width": 780.46,
+                "height": 657.97,
+                "area": 513519.27,
+                "area_ratio": 28.83
+            }
+        },
+        {
+            "class": "뿌리",
+            "class_id": 4,
+            "confidence": 0.96,
+            "bbox": {
+                "x1": 424.77,
+                "y1": 1053.22,
+                "x2": 924.02,
+                "y2": 1217.15,
+                "width": 499.25,
+                "height": 163.93,
+                "area": 81842.05,
+                "area_ratio": 4.59
+            }
+        },
+        {
+            "class": "나무전체",
+            "class_id": 0,
+            "confidence": 0.95,
+            "bbox": {
+                "x1": 268.48,
+                "y1": 49.51,
+                "x2": 1053.0,
+                "y2": 1044.9,
+                "width": 784.52,
+                "height": 995.39,
+                "area": 780903.36,
+                "area_ratio": 43.83
+            }
+        },
+        {
+            "class": "그네",
+            "class_id": 8,
+            "confidence": 0.91,
+            "bbox": {
+                "x1": 827.32,
+                "y1": 733.1,
+                "x2": 991.41,
+                "y2": 1048.96,
+                "width": 164.09,
+                "height": 315.86,
+                "area": 51829.47,
+                "area_ratio": 2.91
+            }
+        },
+        {
+            "class": "가지",
+            "class_id": 3,
+            "confidence": 0.91,
+            "bbox": {
+                "x1": 389.45,
+                "y1": 260.67,
+                "x2": 992.4,
+                "y2": 633.18,
+                "width": 602.95,
+                "height": 372.51,
+                "area": 224604.9,
+                "area_ratio": 12.61
+            }
+        },
+        {
+            "class": "가지",
+            "class_id": 3,
+            "confidence": 0.86,
+            "bbox": {
+                "x1": 662.12,
+                "y1": 706.69,
+                "x2": 988.18,
+                "y2": 837.78,
+                "width": 326.06,
+                "height": 131.09,
+                "area": 42743.21,
+                "area_ratio": 2.4
+            }
+        },
+        {
+            "class": "기둥",
+            "class_id": 1,
+            "confidence": 0.78,
+            "bbox": {
+                "x1": 501.51,
+                "y1": 645.4,
+                "x2": 839.61,
+                "y2": 1050.82,
+                "width": 338.1,
+                "height": 405.42,
+                "area": 137072.5,
+                "area_ratio": 7.69
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "image": "Multi_Modal/ex/test_image4.jpg",
+    "width": 518,
+    "height": 710,
+    "summary": {
+        "꽃": {
+            "count": 2,
+            "total_area_ratio": 24.51
+        },
+        "수관": {
+            "count": 1,
+            "total_area_ratio": 8.46
+        }
+    },
+    "objects": [
+        {
+            "class": "꽃",
+            "class_id": 6,
+            "confidence": 0.98,
+            "bbox": {
+                "x1": 174.11,
+                "y1": 212.34,
+                "x2": 353.91,
+                "y2": 621.37,
+                "width": 179.8,
+                "height": 409.03,
+                "area": 73543.59,
+                "area_ratio": 20.0
+            }
+        },
+        {
+            "class": "꽃",
+            "class_id": 6,
+            "confidence": 0.9,
+            "bbox": {
+                "x1": 46.1,
+                "y1": 268.03,
+                "x2": 146.95,
+                "y2": 432.46,
+                "width": 100.85,
+                "height": 164.43,
+                "area": 16582.77,
+                "area_ratio": 4.51
+            }
+        },
+        {
+            "class": "수관",
+            "class_id": 2,
+            "confidence": 0.82,
+            "bbox": {
+                "x1": 176.29,
+                "y1": 217.16,
+                "x2": 354.71,
+                "y2": 391.45,
+                "width": 178.42,
+                "height": 174.29,
+                "area": 31096.82,
+                "area_ratio": 8.46
+            }
+        }
+    ]
+}

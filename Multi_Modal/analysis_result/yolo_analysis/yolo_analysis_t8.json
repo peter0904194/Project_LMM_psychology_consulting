@@ -1,0 +1,243 @@
+{
+    "image": "Multi_Modal/ex/test_image8.jpg",
+    "width": 886,
+    "height": 632,
+    "summary": {
+        "수관": {
+            "count": 1,
+            "total_area_ratio": 33.25
+        },
+        "나무전체": {
+            "count": 1,
+            "total_area_ratio": 49.26
+        },
+        "열매": {
+            "count": 9,
+            "total_area_ratio": 2.82
+        },
+        "뿌리": {
+            "count": 1,
+            "total_area_ratio": 1.21
+        },
+        "기둥": {
+            "count": 1,
+            "total_area_ratio": 6.55
+        },
+        "가지": {
+            "count": 1,
+            "total_area_ratio": 4.46
+        }
+    },
+    "objects": [
+        {
+            "class": "수관",
+            "class_id": 2,
+            "confidence": 0.96,
+            "bbox": {
+                "x1": 156.34,
+                "y1": 0.0,
+                "x2": 660.64,
+                "y2": 369.19,
+                "width": 504.3,
+                "height": 369.19,
+                "area": 186182.52,
+                "area_ratio": 33.25
+            }
+        },
+        {
+            "class": "나무전체",
+            "class_id": 0,
+            "confidence": 0.94,
+            "bbox": {
+                "x1": 156.86,
+                "y1": 0.0,
+                "x2": 596.55,
+                "y2": 627.37,
+                "width": 439.69,
+                "height": 627.37,
+                "area": 275848.32,
+                "area_ratio": 49.26
+            }
+        },
+        {
+            "class": "열매",
+            "class_id": 7,
+            "confidence": 0.93,
+            "bbox": {
+                "x1": 440.51,
+                "y1": 291.53,
+                "x2": 474.63,
+                "y2": 335.02,
+                "width": 34.12,
+                "height": 43.49,
+                "area": 1483.88,
+                "area_ratio": 0.27
+            }
+        },
+        {
+            "class": "뿌리",
+            "class_id": 4,
+            "confidence": 0.92,
+            "bbox": {
+                "x1": 303.51,
+                "y1": 578.2,
+                "x2": 432.52,
+                "y2": 630.66,
+                "width": 129.01,
+                "height": 52.46,
+                "area": 6767.86,
+                "area_ratio": 1.21
+            }
+        },
+        {
+            "class": "열매",
+            "class_id": 7,
+            "confidence": 0.91,
+            "bbox": {
+                "x1": 240.33,
+                "y1": 281.63,
+                "x2": 281.37,
+                "y2": 327.27,
+                "width": 41.04,
+                "height": 45.64,
+                "area": 1873.07,
+                "area_ratio": 0.33
+            }
+        },
+        {
+            "class": "열매",
+            "class_id": 7,
+            "confidence": 0.91,
+            "bbox": {
+                "x1": 496.71,
+                "y1": 73.43,
+                "x2": 533.42,
+                "y2": 123.37,
+                "width": 36.71,
+                "height": 49.94,
+                "area": 1833.3,
+                "area_ratio": 0.33
+            }
+        },
+        {
+            "class": "열매",
+            "class_id": 7,
+            "confidence": 0.9,
+            "bbox": {
+                "x1": 201.12,
+                "y1": 102.03,
+                "x2": 238.23,
+                "y2": 145.81,
+                "width": 37.11,
+                "height": 43.78,
+                "area": 1624.68,
+                "area_ratio": 0.29
+            }
+        },
+        {
+            "class": "열매",
+            "class_id": 7,
+            "confidence": 0.9,
+            "bbox": {
+                "x1": 295.57,
+                "y1": 47.84,
+                "x2": 333.72,
+                "y2": 91.7,
+                "width": 38.15,
+                "height": 43.86,
+                "area": 1673.26,
+                "area_ratio": 0.3
+            }
+        },
+        {
+            "class": "열매",
+            "class_id": 7,
+            "confidence": 0.9,
+            "bbox": {
+                "x1": 201.81,
+                "y1": 186.52,
+                "x2": 240.23,
+                "y2": 227.76,
+                "width": 38.42,
+                "height": 41.24,
+                "area": 1584.44,
+                "area_ratio": 0.28
+            }
+        },
+        {
+            "class": "열매",
+            "class_id": 7,
+            "confidence": 0.9,
+            "bbox": {
+                "x1": 466.85,
+                "y1": 190.32,
+                "x2": 505.64,
+                "y2": 237.31,
+                "width": 38.79,
+                "height": 46.99,
+                "area": 1822.74,
+                "area_ratio": 0.33
+            }
+        },
+        {
+            "class": "열매",
+            "class_id": 7,
+            "confidence": 0.9,
+            "bbox": {
+                "x1": 265.78,
+                "y1": 216.8,
+                "x2": 301.79,
+                "y2": 268.62,
+                "width": 36.01,
+                "height": 51.82,
+                "area": 1866.04,
+                "area_ratio": 0.33
+            }
+        },
+        {
+            "class": "기둥",
+            "class_id": 1,
+            "confidence": 0.89,
+            "bbox": {
+                "x1": 313.46,
+                "y1": 225.96,
+                "x2": 414.43,
+                "y2": 589.43,
+                "width": 100.97,
+                "height": 363.47,
+                "area": 36699.57,
+                "area_ratio": 6.55
+            }
+        },
+        {
+            "class": "열매",
+            "class_id": 7,
+            "confidence": 0.89,
+            "bbox": {
+                "x1": 386.38,
+                "y1": 4.82,
+                "x2": 424.8,
+                "y2": 57.22,
+                "width": 38.42,
+                "height": 52.4,
+                "area": 2013.21,
+                "area_ratio": 0.36
+            }
+        },
+        {
+            "class": "가지",
+            "class_id": 3,
+            "confidence": 0.84,
+            "bbox": {
+                "x1": 247.99,
+                "y1": 89.51,
+                "x2": 421.01,
+                "y2": 233.85,
+                "width": 173.02,
+                "height": 144.34,
+                "area": 24973.71,
+                "area_ratio": 4.46
+            }
+        }
+    ]
+}
